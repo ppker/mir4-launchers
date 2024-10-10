@@ -4,6 +4,8 @@
 
 ![image](https://github.com/user-attachments/assets/2a563394-5231-4b50-9769-8eb928e679a3)
 
+![image](https://github.com/user-attachments/assets/47f27ca6-80e4-4cf0-b0c0-dc29e587dff6)
+
 ---------------------------------------------------------------------------
 # Links:
 
@@ -25,7 +27,7 @@
 >
 > [Couchbase Community 7.2](https://packages.couchbase.com/releases/7.2.0/couchbase-server-enterprise_7.2.0-windows_amd64.msi)
 >
-> [Redis 7.2(Latest)](https://github.com/redis/redis/archive/7.2.4.tar.gz)
+> [Memurai](https://www.memurai.com/get-memurai)
 
 ## Servers - Linux
  ### Linux
@@ -35,7 +37,7 @@
 >
 > [Couchbase Community 7.2](https://docs.couchbase.com/server/current/install/install-linux.html)
 >
-> [Redis 7.2(Latest)](https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/install-redis-on-linux/)
+> [Memurai](https://www.memurai.com/get-memurai)
 
  ## Website (Optional)
 > [CPanel](https://cpanel.net/)
@@ -183,21 +185,21 @@ Plugin List - [DOWNLOAD](https://mirfiles.com/resources/mir2/users/Jev/Mir%204/M
 ---------------------------------------------------------------------------
 # Dev Team:
 
-[Jev](https://www.lomcn.net/forum/members/jev.29880/)
-
-[REDACTED](REDACTED) (Redacted for now)
-
-[REDACTED](REDACTED) (Redacted for now)
-
-[REDACTED](REDACTED) (Redacted for now)
-
-[REDACTED](REDACTED) (Redacted for now)
-
-[Wagner](https://www.lomcn.net/forum/members/estregoik.45841/)
-
-[Nyyl](https://www.lomcn.net/forum/members/nyylxd.42262/)
-
-[S4oul](https://github.com/s4oul)
+> [Jev](https://www.lomcn.net/forum/members/jev.29880/)
+>
+> [REDACTED](REDACTED) (Redacted for now)
+>
+> [REDACTED](REDACTED) (Redacted for now)
+>
+> [REDACTED](REDACTED) (Redacted for now)
+>
+> [REDACTED](REDACTED) (Redacted for now)
+>
+> [Wagner](https://www.lomcn.net/forum/members/estregoik.45841/)
+>
+> [Nyyl](https://www.lomcn.net/forum/members/nyylxd.42262/)
+>
+> [S4oul](https://github.com/s4oul)
 
 # Contributors:
 
@@ -232,3 +234,9 @@ Plugin List - [DOWNLOAD](https://mirfiles.com/resources/mir2/users/Jev/Mir%204/M
 > [Mir 3](https://github.com/Suprcode/Zircon)
 >
 > [Mir 3D (Moon Spirit)](https://github.com/mir-ethernity/mir-eternal) | [Mir 3D (Holy Cow)](https://github.com/damianday/Conquer)
+
+# Sponsored By:
+
+> [RageZone](https://forum.ragezone.com/) - RaGEZONE is a website dedicated to the development of massively multiplayer online role-playing games (MMORPGs).
+> 
+> [LOMCN](https://www.lomcn.net/) - The Legend of Mir Community Network is a fan based site on the MMORPG Legend of Mir.
